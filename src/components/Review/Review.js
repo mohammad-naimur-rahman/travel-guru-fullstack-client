@@ -21,7 +21,7 @@ const Review = () => {
             review: reviewText,
             image
         }
-        fetch('http://localhost:5000/addReview', {
+        fetch('https://damp-island-51942.herokuapp.com/addReview', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(reviewInfo)
