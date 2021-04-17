@@ -1,0 +1,11 @@
+.nav-logo {
+  font-family: var(--font-heading);
+  color: var(--color-primary);
+}
+.nav-logo-svg {
+  width: 40px;
+  height: 40px;
+  filter: invert(61%) sepia(68%) saturate(422%) hue-rotate(154deg)
+    brightness(86%) contrast(90%);
+  margin-right: 10px;
+}
