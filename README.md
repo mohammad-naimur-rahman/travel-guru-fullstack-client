@@ -1,5 +1,5 @@
 <div align="center">
-  # Travel Guru - A full stack MERN stack application
+  #Travel Guru - A full stack MERN stack application
   <br/>
   ✨ _Loved the project? Give this project a star to show your support._ ✨
 </div>
