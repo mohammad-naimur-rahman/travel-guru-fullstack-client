@@ -25,14 +25,17 @@ Guide for local deployment -
 https://github.com/mohammad-naimur-rahman/travel-guru-fullstack-client.git
 ```
 2. Install the dependencies
-<br/>
-`npm install`
+```bash
+npm install
+```
 3. Run at local server
-<br/>
-`npm start`
+```bash
+npm start
+```
 4. Open project at
-<br/>
-`http://localhost:3000`
+```
+http://localhost:3000
+```
 
 ## ❤️ Support
 
