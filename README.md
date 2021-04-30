@@ -23,7 +23,7 @@ The project is deployed here : https://travel-guru-e1c27.firebaseapp.com/
 Guide for local deployment - 
 1. Clone the repo
 ``` bash
-https://github.com/mohammad-naimur-rahman/travel-guru-fullstack-client.git
+git clone https://github.com/mohammad-naimur-rahman/travel-guru-fullstack-client.git
 ```
 2. Install the dependencies
 ```bash
