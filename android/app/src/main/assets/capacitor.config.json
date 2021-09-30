@@ -1,0 +1,6 @@
+{
+	"appId": "com.travelguruclient.app",
+	"appName": "Travel Guru",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

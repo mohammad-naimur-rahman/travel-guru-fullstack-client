@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@capacitor/android": "^3.2.4",
+    "@capacitor/cli": "^3.2.4",
+    "@capacitor/core": "^3.2.4",
     "@stripe/react-stripe-js": "^1.4.0",
     "@stripe/stripe-js": "^1.13.2",
     "@testing-library/jest-dom": "^5.11.10",
