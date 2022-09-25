@@ -44,4 +44,4 @@ If you happen to love this project, leave a star on the repo. That'll keep me mo
 
 Thanks!
 
-Contributions are welcomed!
+Contributors are welcomed! 
